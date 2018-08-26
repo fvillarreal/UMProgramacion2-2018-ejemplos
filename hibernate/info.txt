@@ -1,0 +1,4 @@
+Este proyecto esta desarrollado con intellij pero debería de poder manejarse con cualquier IDE
+
+En el ejemplo (no está completo) tenemos personas y automóviles. Nótese que el fetch type es EAGER en la entidad Persona, no debería ser necesario pero no termina du funcionar con LAZY.
+De todas formas cuando trabajen con otro proyecto podrán manejar LAZY o EAGER de forma indistinta.
